@@ -1,5 +1,16 @@
 # Azure_Projects
 
+- ## Manage Governance via Azure Policy
+
+  In response to the rapid expansion of organization’s cloud footprint and the discovery of numerous untagged resources during an audit, this project aims to enhance the management and governance of Azure resources. The key objectives include:
+
+  - **Applying resource tags** to attach essential metadata such as owner, project, and cost center to Azure resources.
+  - **Enforcing the use of resource tags** for all new resources through Azure Policy.
+  - **Updating existing resources** with appropriate resource tags.
+  - **Implementing resource locks** to safeguard critical resources from accidental modifications or deletions.
+
+  This project ensures better resource organization, cost management, and compliance with organizational standards. I overcamed challenges such as identifying untagged resources, ensuring Azure Policy enforcement without disrupting workflows, retagging existing resources without downtime, and balancing     resource locks with management flexibility by following the above-mentioned key objectives. 📈🔒
+
 - ## Manage Subscriptions and RBAC
 
   In this project, I focused on managing Azure subscriptions and implementing Role-Based Access Control (RBAC) to enhance security and efficiency. The key tasks included:
